@@ -75,12 +75,4 @@ This project is for *educational purposes only*. Do not use this script in any u
 
 ---
 
-## 📚 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙌 Author
-
-Created by a curious learner exploring the basics of file handling and user input in Python. 🐍
